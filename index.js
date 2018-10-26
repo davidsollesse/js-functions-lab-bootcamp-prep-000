@@ -24,5 +24,5 @@ function holidayCountdown(holiday, days) {
 //homework
 
 functionhappyHolidays() {
-    return("Happy holidays!")
+    return`Happy holidays!`
 }
